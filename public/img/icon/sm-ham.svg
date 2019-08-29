@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.25" height="4.375" viewBox="0 0 16.25 4.375">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="18.531" y="36.281" width="14.25" height="2.375" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="translate(-17.531 -35.281)" style="fill: ; filter: url(#filter)">
+    <path id="Rounded_Rectangle_1_copy" data-name="Rounded Rectangle 1 copy" class="cls-1" d="M19.709,36.295H31.6a1.177,1.177,0,1,1,0,2.355H19.709A1.177,1.177,0,1,1,19.709,36.295Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-17.531 -35.281)" xlink:href="#Rounded_Rectangle_1_copy" style="stroke: #fff; filter: none; fill: none"/>
+</svg>
